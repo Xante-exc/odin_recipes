@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif; /* i added new font for simple idea of adding other stuff and practice font's in css*/
+    background-color: hsla(54, 80%, 80%, 0.575)
+}
+
+h1 {
+    text-align: center;
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 250px;
+    margin-left: 250px;
+}
